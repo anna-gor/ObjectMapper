@@ -1,0 +1,38 @@
+[{
+  "username": "PK",
+  "password": "pass",
+  "name": "Pratik",
+  "address": {
+    "city": "pune"
+  },
+  "hobbies": [
+    {
+      "hobby": "Singing"
+    },
+    {
+      "hobby": "Coding"
+    },
+    {
+      "hobby": "Traveling"
+    }
+  ]
+},
+  {
+    "username": "PuK",
+    "password": "passi",
+    "name": "Pratirk",
+    "address": {
+      "city": "pugne"
+    },
+    "hobbies": [
+      {
+        "hobby": "Singing"
+      },
+      {
+        "hobby": "Coding"
+      },
+      {
+        "hobby": "Traveling"
+      }
+    ]
+  }]
